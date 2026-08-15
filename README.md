@@ -20,6 +20,8 @@ I started in computer vision, teaching machines to pull identity, diagnosis, and
 Benchmarks are clean. The world isn't. My previous work sits in that gap: identity from a silhouette when the face is gone, malignancy from a lesion when the margin is unclear, structure from a scene when the object is buried in clutter. At DeepSight AI Labs, that meant taking research out of the notebook and into systems that had to actually work. Same instinct, different substrates. Now I'm asking whether that instinct holds up inside a system that wasn't built by anyone at all, the brain.
 
 <table align="center"> <tr> <td align="center"><b>walking_pattern</b></td> <td align="center">&rarr;</td> <td align="center">identity</td> <td align="center"><sub>when the face isn't visible</sub></td> </tr> <tr> <td align="center"><b>mammogram_roi</b></td> <td align="center">&rarr;</td> <td align="center">diagnosis</td> <td align="center"><sub>when the margin isn't obvious</sub></td> </tr> <tr> <td align="center"><b>orchard_frame</b></td> <td align="center">&rarr;</td> <td align="center">detection</td> <td align="center"><sub>when the object isn't clean</sub></td> </tr> </table> <br>
+
+
 ## Published Work
 
 Full record on **[Google Scholar](https://scholar.google.com/citations?user=uaVL37kAAAAJ&hl=en)**.

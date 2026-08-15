@@ -1,14 +1,4 @@
-<p align="center"><img src="banner.svg" alt="signal to structure" width="100%"/></p>
-
-<h1 align="center">Mohammed Asad</h1>
-<p align="center"><i>I study how systems find structure in signal, biological or artificial.</i></p>
-
-<p align="center">
-  <a href="https://mdasad7r.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Homepage"/></a>
-  <a href="https://scholar.google.com/citations?user=uaVL37kAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-000000?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Scholar"/></a>
-  <a href="https://www.linkedin.com/in/mohammed-asad-deltech/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:asadmohd9411@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+<p align="center"><img src="banner.svg" alt="signal to structure" width="100%"/></p> <h1 align="center">Mohammed Asad</h1> <p align="center"><i>I study how systems find structure in signal, biological or artificial.</i></p> <p align="center"> <a href="https://mdasad7r.github.io/portfolio/"><img src="https://img.shields.io/badge/Homepage-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Homepage"/></a> <a href="https://scholar.google.com/citations?user=uaVL37kAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-000000?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Scholar"/></a> <a href="https://www.linkedin.com/in/mohammed-asad-deltech/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:asadmohd9411@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> </p> <br>
 
 
 ## Currently

@@ -1,7 +1,7 @@
 <p align="center"><img src="banner.svg" alt="signal to structure" width="100%"/></p>
 
-<h1 align="center">Hey, I'm Mohammed Asad</h1>
-<p align="center"><i>I study how systems find structure in signal, biological or artificial.</i></p>
+<h1 align="center">Hi, I'm Mohammed Asad. What does it take for a machine, or a brain, to actually understand what it's looking at?</h1>
+<p align="center"><i>I work on vision, in the systems we build and the ones the brain already runs.</i></p>
 
 <p align="center">
   <a href="https://mdasad7r.github.io/portfolio/"><img src="https://img.shields.io/badge/Homepage-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Homepage"/></a>
@@ -10,7 +10,7 @@
   <a href="mailto:asadmohd9411@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-I started in computer vision, teaching machines to pull identity, diagnosis, and structure out of noisy visual signal. That question never stayed contained to a camera. At **CRCV, UCF**, I work on computational neuroscience and dynamical systems, asking how the brain itself computes. At the **MIAL Lab, SFU**, medical imaging keeps me close to where structure and stakes meet. Recent ECE graduate of **Delhi Technological University**, headed for a PhD next.
+I started in computer vision, teaching machines to pull identity, diagnosis, and structure out of noisy images. That question kept pulling me further back, past the camera and into the system doing the seeing. At **CRCV, UCF**, I work on computational neuroscience and dynamical systems, asking how the brain computes perception in the first place. At the **MIAL Lab, SFU**, medical imaging keeps me close to where that same question carries real stakes. Recent ECE graduate of Delhi Technological University, headed for a PhD next.
 
 <p align="center">
 <b>Research Interests</b><br/><br/>

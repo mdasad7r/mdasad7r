@@ -1,23 +1,23 @@
-<p align="center"><img src="banner.svg" alt="signal to structure" width="100%"/></p>
+<h1 align="center">Hello, I'm Mohammed Asad. I'm obsessed with visual intelligence.</h1>
+<p align="center"><i>What does it take for a machine, or a brain, to truly understand what it sees?</i></p>
 
-<h1 align="center">Hi, I'm Mohammed Asad. What does it take for a machine, or a brain, to actually understand what it's looking at?</h1>
-<p align="center"><i>I work on vision, in the systems we build and the ones the brain already runs.</i></p>
 
 <p align="center">
-  <a href="https://mdasad7r.github.io/portfolio/"><img src="https://img.shields.io/badge/Homepage-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Homepage"/></a>
-  <a href="https://scholar.google.com/citations?user=uaVL37kAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-000000?style=flat-square&logo=googlescholar&logoColor=white" alt="Scholar"/></a>
-  <a href="https://www.linkedin.com/in/mohammed-asad-deltech/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:asadmohd9411@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://mdasad7r.github.io/portfolio/">Homepage</a> •
+  <a href="https://scholar.google.com/citations?user=uaVL37kAAAAJ&hl=en">Google Scholar</a> •
+  <a href="https://www.linkedin.com/in/mohammed-asad-deltech/">LinkedIn</a> •
+  <a href="mailto:asadmohd9411@gmail.com">Email</a>
 </p>
 
-I started in computer vision, teaching machines to pull identity, diagnosis, and structure out of noisy images. That question kept pulling me further back, past the camera and into the system doing the seeing. At **CRCV, UCF**, I work on computational neuroscience and dynamical systems, asking how the brain computes perception in the first place. At the **MIAL Lab, SFU**, medical imaging keeps me close to where that same question carries real stakes. Recent ECE graduate of Delhi Technological University, headed for a PhD next.
+I work on <b>visual intelligence</b>, studying how intelligent systems learn to see, represent, and understand the visual world. At the <u><i>Center for Research in Computer Vision (CRCV), UCF</i></u>, I study object-centric visual learning and computational models of perception. At the <u><i>MIAL Lab, SFU</i></u>, I work on medical imaging and spatial organization in biological data. I am a recent ECE graduate from <u><i>DTU, India</i></u>, preparing to pursue a <b>PhD</b> in computer vision and intelligent systems.
 
 <p align="center">
 <b>Research Interests</b><br/><br/>
-<code>01</code>&nbsp;&nbsp;Computational Neuroscience&nbsp;&nbsp;&nbsp;&nbsp;<code>02</code>&nbsp;&nbsp;Dynamical Systems&nbsp;&nbsp;&nbsp;&nbsp;<code>03</code>&nbsp;&nbsp;Computer Vision<br/><br/>
-<code>04</code>&nbsp;&nbsp;Medical Imaging&nbsp;&nbsp;&nbsp;&nbsp;<code>05</code>&nbsp;&nbsp;Vision-Language Models
+<code>01</code>  Computer Vision    <code>02</code>  Vision-Language Models    <code>03</code>  Medical Imaging<br/><br/> <code>04</code>  Computational Neuroscience    <code>05</code>  AI4Science    <code>06</code>  Data Science
+
 </p>
 
-<p align="center">Open to collaborations, PhD conversations, or a hard problem I haven't seen yet.</p>
+<p align="center"><i>Open to collaborations, <b>PhD</b> conversations, or a hard problem I haven't seen yet.</i></p>
 
-<p align="center"><sub><i>Systems that fail gracefully instead of confidently.</i></sub></p>
+<p align="center"><sub><i>“If we want our machines to think, we need to teach them to see.”
+— Fei-Fei Li</i></sub></p>

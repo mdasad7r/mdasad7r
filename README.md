@@ -13,7 +13,7 @@ I work on <b>visual intelligence</b>, studying how intelligent systems learn to 
 
 <p align="center">
 <b>Research Interests</b><br/><br/>
-<code>01</code>  Computer Vision    <code>02</code>  Vision-Language Models    <code>03</code>  Medical Imaging<br/><br/> <code>04</code>  Computational Neuroscience    <code>05</code>  AI4Science    <code>06</code>  Data Science
+<code>01</code>  Computer Vision    <code>02</code>  Vision-Language Models    <code>03</code>  Medical Imaging<br/><br/> <code>04</code>  Computational Neuroscience    <code>05</code>  AI4Science 
 
 </p>
 
